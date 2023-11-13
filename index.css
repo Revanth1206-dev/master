@@ -811,3 +811,11 @@ span {
 
   /* Image hover 1.22.46*/
 }
+.pub-h1 {
+  font-size: 2rem;
+  color: var(--main-color);
+  padding-bottom: 0.5rem;
+}
+li{
+    margin: 10px 0;
+}
